@@ -1,0 +1,10 @@
+{
+  "name": "TMTCTM",
+  "displayName": "The mod that changes the Mindustry",
+  "author": "YourName",
+  "description": "This mod changes Mindastry",
+  "version": "0.1",
+  "minGameVersion": "154",
+  "java": true,
+  "main": "tmtctm.TMTCTMMod"
+}
